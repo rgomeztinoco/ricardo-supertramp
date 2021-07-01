@@ -5,7 +5,7 @@
     "accent_color": "pink",
     "header": {
         "title": "RICARDO SUPERTRAMP",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
